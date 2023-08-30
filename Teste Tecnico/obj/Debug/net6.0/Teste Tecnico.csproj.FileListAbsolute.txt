@@ -1,0 +1,30 @@
+C:\Users\Lucas\Desktop\Lucas Cabral Vieira da Costa\Teste Tecnico\Teste Tecnico\bin\Debug\net6.0\Teste Tecnico.exe
+C:\Users\Lucas\Desktop\Lucas Cabral Vieira da Costa\Teste Tecnico\Teste Tecnico\bin\Debug\net6.0\Teste Tecnico.deps.json
+C:\Users\Lucas\Desktop\Lucas Cabral Vieira da Costa\Teste Tecnico\Teste Tecnico\bin\Debug\net6.0\Teste Tecnico.runtimeconfig.json
+C:\Users\Lucas\Desktop\Lucas Cabral Vieira da Costa\Teste Tecnico\Teste Tecnico\bin\Debug\net6.0\Teste Tecnico.dll
+C:\Users\Lucas\Desktop\Lucas Cabral Vieira da Costa\Teste Tecnico\Teste Tecnico\bin\Debug\net6.0\Teste Tecnico.pdb
+C:\Users\Lucas\Desktop\Lucas Cabral Vieira da Costa\Teste Tecnico\Teste Tecnico\obj\Debug\net6.0\Teste Tecnico.csproj.AssemblyReference.cache
+C:\Users\Lucas\Desktop\Lucas Cabral Vieira da Costa\Teste Tecnico\Teste Tecnico\obj\Debug\net6.0\Teste Tecnico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas\Desktop\Lucas Cabral Vieira da Costa\Teste Tecnico\Teste Tecnico\obj\Debug\net6.0\Teste Tecnico.AssemblyInfoInputs.cache
+C:\Users\Lucas\Desktop\Lucas Cabral Vieira da Costa\Teste Tecnico\Teste Tecnico\obj\Debug\net6.0\Teste Tecnico.AssemblyInfo.cs
+C:\Users\Lucas\Desktop\Lucas Cabral Vieira da Costa\Teste Tecnico\Teste Tecnico\obj\Debug\net6.0\Teste Tecnico.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Desktop\Lucas Cabral Vieira da Costa\Teste Tecnico\Teste Tecnico\obj\Debug\net6.0\Teste Tecnico.dll
+C:\Users\Lucas\Desktop\Lucas Cabral Vieira da Costa\Teste Tecnico\Teste Tecnico\obj\Debug\net6.0\refint\Teste Tecnico.dll
+C:\Users\Lucas\Desktop\Lucas Cabral Vieira da Costa\Teste Tecnico\Teste Tecnico\obj\Debug\net6.0\Teste Tecnico.pdb
+C:\Users\Lucas\Desktop\Lucas Cabral Vieira da Costa\Teste Tecnico\Teste Tecnico\obj\Debug\net6.0\Teste Tecnico.genruntimeconfig.cache
+C:\Users\Lucas\Desktop\Lucas Cabral Vieira da Costa\Teste Tecnico\Teste Tecnico\obj\Debug\net6.0\ref\Teste Tecnico.dll
+C:\Users\Lucas\Desktop\Teste Tecnico\Teste Tecnico\bin\Debug\net6.0\Teste Tecnico.exe
+C:\Users\Lucas\Desktop\Teste Tecnico\Teste Tecnico\bin\Debug\net6.0\Teste Tecnico.deps.json
+C:\Users\Lucas\Desktop\Teste Tecnico\Teste Tecnico\bin\Debug\net6.0\Teste Tecnico.runtimeconfig.json
+C:\Users\Lucas\Desktop\Teste Tecnico\Teste Tecnico\bin\Debug\net6.0\Teste Tecnico.dll
+C:\Users\Lucas\Desktop\Teste Tecnico\Teste Tecnico\bin\Debug\net6.0\Teste Tecnico.pdb
+C:\Users\Lucas\Desktop\Teste Tecnico\Teste Tecnico\obj\Debug\net6.0\Teste Tecnico.csproj.AssemblyReference.cache
+C:\Users\Lucas\Desktop\Teste Tecnico\Teste Tecnico\obj\Debug\net6.0\Teste Tecnico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas\Desktop\Teste Tecnico\Teste Tecnico\obj\Debug\net6.0\Teste Tecnico.AssemblyInfoInputs.cache
+C:\Users\Lucas\Desktop\Teste Tecnico\Teste Tecnico\obj\Debug\net6.0\Teste Tecnico.AssemblyInfo.cs
+C:\Users\Lucas\Desktop\Teste Tecnico\Teste Tecnico\obj\Debug\net6.0\Teste Tecnico.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Desktop\Teste Tecnico\Teste Tecnico\obj\Debug\net6.0\Teste Tecnico.dll
+C:\Users\Lucas\Desktop\Teste Tecnico\Teste Tecnico\obj\Debug\net6.0\refint\Teste Tecnico.dll
+C:\Users\Lucas\Desktop\Teste Tecnico\Teste Tecnico\obj\Debug\net6.0\Teste Tecnico.pdb
+C:\Users\Lucas\Desktop\Teste Tecnico\Teste Tecnico\obj\Debug\net6.0\Teste Tecnico.genruntimeconfig.cache
+C:\Users\Lucas\Desktop\Teste Tecnico\Teste Tecnico\obj\Debug\net6.0\ref\Teste Tecnico.dll

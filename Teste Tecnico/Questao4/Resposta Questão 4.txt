@@ -1,0 +1,3 @@
+A coleção SortedSet em C# é uma coleção ordenada que não permite elementos duplicados. Ela é implementada usando uma árvore binária de busca, o que garante que os elementos sejam ordenados de forma consistente.
+
+A classe Comparator é usada para definir a ordem de classificação dos elementos da coleção SortedSet. A classe Comparator implementa a interface IComparer<T>, que define o método Compare(). O método Compare() é usado para comparar dois elementos da coleção e retornar um valor que indica se o primeiro elemento é menor, igual ou maior que o segundo elemento.

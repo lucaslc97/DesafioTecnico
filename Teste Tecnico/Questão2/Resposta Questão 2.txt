@@ -1,0 +1,3 @@
+Falta de Responsabilidade Única (SRP): A classe Pedido realiza tanto a lógica do pedido quanto o cálculo de descontos.
+
+Baixa Coesão: A classe Pedido realiza tarefas diversas, reduzindo sua coesão.

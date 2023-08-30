@@ -1,0 +1,7 @@
+A classe Pedido apresentada é um modelo de domínio anêmico, pois não contém informações suficientes para representar o domínio de um pedido. A classe Pedido fere o princípio da responsabilidade única, pois está assumindo várias responsabilidades diferentes.
+
+Para resolver o problema, é necessário adicionar informações adicionais à classe Pedido para que ela possa representar o domínio de um pedido de forma completa. Podemos fazer isso adicionando as seguintes propriedades à classe Pedido:
+
+Cliente: um objeto que representa o cliente que realizou o pedido.
+Produtos: uma coleção de objetos que representam os produtos que foram encomendados no pedido.
+ValorTotal: o valor total do pedido.
